@@ -1,7 +1,24 @@
-.contenedor{
-  display: grid;
-  background-color: black;
-}
-.contenedor-peliclas{
-  background-color: brown;
-}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: white;
+  }
+  .form-title {
+    font-size: 3em;
+    font-weight: 500;
+  }
+  .form__input {
+    color: white !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+  }
+  form .form-input {
+    margin-top: 20px;
+  }
+  form .btn-form {
+    margin-top: 20px;
+  }
+  

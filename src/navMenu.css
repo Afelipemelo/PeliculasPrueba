@@ -1,0 +1,31 @@
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0 40px;
+    line-height: 80px;
+    color: aliceblue;
+  }
+  .header {
+    display: flex;
+    background-color: #d35400;
+    /* justify-content: space-between; */
+    height: 80px;
+    position: fixed;
+      z-index: 1000;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .busqueda {
+    margin-top: 10px;
+    margin-left: 30%;
+  }
+  .buscar-pelis {
+    margin-left: 22%;
+    margin-top: 15px;
+    
+  }
+  .favoritos {
+    margin-top: 20px;
+  }
+  
