@@ -1,0 +1,110 @@
+.form-style-1 {
+    margin-bottom: 60px;
+    background-color: #504171;
+    /* background: rgb(37,32,120);
+    background: linear-gradient(90deg, rgba(37,32,120,1) 0%, rgba(97,67,181,1) 25%, rgba(55,86,161,1) 100%); */
+    border: 3px solid #0f2133;
+    padding: 15px;
+  }
+  
+  .movie-item-style-2 {
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    margin-bottom: 30px;
+    background-color: #675394;
+  }
+  
+  .form-style-1 input,
+  .form-style-1 select {
+    font-family: "Nunito", sans-serif;
+    font-size: 12px;
+    color: #abb7c4;
+    font-weight: 300;
+    text-transform: none;
+    background-color: #725ba4;
+    border: none;
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    border-radius: 3px !important;
+    height: 40px;
+  }
+  
+  .form-style-1 .group-ip .ui.selection.dropdown,
+  .form-style-1 .group-ip .ui.multiple.dropdown .menu {
+    background-color: #e5e0f1;
+  }
+  
+  .movie-item-style-2 {
+    margin: auto;
+    margin-top: 50px;
+    width: 780px;
+    height: 400px;
+    background-color: red;
+    /* display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    margin-bottom: 30px;
+    background-color: #393344;
+  }
+  body,
+  h1 {
+    text-align: center;
+    background-color: #232225;
+    color: #e5e0f1;
+  }
+  #title {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  .pelis {
+    margin: auto;
+    margin-left: 15px;
+    margin-bottom: 12px;
+  
+    display: flex;
+    column-gap: 60px;
+    margin-top: 50px;
+    background-color: rgb(58, 57, 57);
+    height: 550px;
+    display: inline-block;
+  }
+  .img1 {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  .descripcion {
+    font-size: small;
+  }
+  .titulo,
+  h2 {
+    margin: auto;
+  
+    bottom: -50px;
+  
+    background-color: rgb(105, 98, 98);
+  }
+  .title {
+    margin: auto;
+  
+    bottom: -50px;
+    background-color: rgb(246, 29, 29);
+  }
+  .general2 {
+    margin: auto;
+    margin-left: 15px;
+    top: 12px;
+    background-color: #0f2133;
+    column-gap: row;
+  }
+  

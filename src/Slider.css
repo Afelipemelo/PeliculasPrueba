@@ -1,0 +1,21 @@
+.slideFondo {
+    /* background-color: #edbb99; */
+    background-color: black;
+  }
+  .slide {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+  .poster {
+    width: 80%;
+    height: 410px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+  }
+  .slideFondo p {
+    color: white;
+  }
+  

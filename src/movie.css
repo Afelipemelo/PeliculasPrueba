@@ -1,0 +1,27 @@
+.contenedor-peliculas {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 3rem;
+  }
+  .barra-buscar {
+    height: 3.2rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: #d35400;
+  }
+  .mispelis {
+    margin-left: 40%;
+    margin-top: 10px;
+  }
+  .buscar-pelis {
+    margin-right: 10px;
+    margin-top: 6px;
+  }
+  .info {
+    padding-right: 50px;
+  }
+  .megusta {
+    padding-right: 20px;
+  }
+  
